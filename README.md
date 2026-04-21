@@ -1,7 +1,9 @@
 **English** | [中文版 README](README_zh.md)
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="assets/hero.gif" alt="hermes-agent-orange-book Hero Animation" />
+  <br/>
+  <sub>Animated with <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill</sub>
 </p>
 
 # Hermes Agent: The Complete Guide
